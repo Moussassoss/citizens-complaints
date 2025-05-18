@@ -7,7 +7,7 @@ export const mockAdmins: Admin[] = [
     id: '1',
     name: 'Jean Mutesi',
     email: 'rtda@example.com',
-    password: 'password123', // In a real app, this would be hashed
+    password: 'password123',
     agency: 'RTDA'
   },
   {
