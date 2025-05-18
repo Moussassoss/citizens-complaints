@@ -49,7 +49,7 @@ https://youtube.com/
 * RW-12345678-0007
 * RW-12345678-0008
 
-* Displays: Category, Submission Date, Assigned Agency, Status, Response
+Displays: Category, Submission Date, Assigned Agency, Status, Response
 
 ### 📅 Admin Dashboard
 
