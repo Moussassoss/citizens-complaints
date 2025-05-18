@@ -92,8 +92,14 @@ const LoginForm: React.FC = () => {
           <div className="mt-4 text-sm text-gray-600">
             <p className="text-center">
               Demo accounts: <br />
-              RTDA: rtda@example.com / password123<br />
-              REG: reg@example.com / password123
+              RTDA (Rwanda Transport Development Agency): rtda@example.com / password123<br />
+              REG (Rwanda Energy Group): reg@example.com / password123 <br />
+              WASAC (Water and Sanitation Corporation): wasac@example.com / password123 <br />
+              NIDA (National Identification Agency): nida@example.com / password123 <br />
+              MINISANTE (Ministry of Health): health@example.com / password123 <br />
+              MINIEDUC (Ministry of Education): educ@example.com / password123 <br />
+              DISTRICT OFFICE : district@example.com / password123 <br />
+              DGIE (Directorate General of Immigration and Emigration): dgie@example.com / password123 <br />
             </p>
           </div>
         </form>

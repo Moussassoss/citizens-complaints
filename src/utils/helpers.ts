@@ -23,7 +23,9 @@ export const mapCategoryToAgency = (category: ComplaintCategory): Agency => {
     case 'Immigration':
       return 'DGIE';
     case 'Local Government Services':
+      return 'District Office';
     case 'Education':
+      return 'MINEDUC';
     default:
       return 'District Office';
   }
@@ -48,6 +50,7 @@ export const governmentAgencies: Agency[] = [
   'WASAC',
   'NIDA',
   'MINISANTE',
+  'MINEDUC',
   'DGIE',
   'District Office'
 ];

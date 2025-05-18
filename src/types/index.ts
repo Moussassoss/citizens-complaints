@@ -41,6 +41,7 @@ export type Agency =
   | 'WASAC'
   | 'NIDA'
   | 'MINISANTE'
+  | 'MINEDUC'
   | 'DGIE'
   | 'District Office';
 
