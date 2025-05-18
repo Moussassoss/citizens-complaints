@@ -73,6 +73,7 @@ export const locationData: LocationData = {
     'Huye': ['Karama'],
     'Bugesera': ['Gashora'],
     'Rwamagana': ['Muhazi'],
+    'Rubavu': ['Gisenyi'],
 
     'Burera': ['Sectors in Burera'],
     'Gakenke': ['Sectors in Gakenke'],
