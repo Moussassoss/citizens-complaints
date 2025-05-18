@@ -57,27 +57,24 @@ export const locationData: LocationData = {
   provinces: ['Kigali', 'Northern', 'Southern', 'Eastern', 'Western'],
   districts: {
     'Kigali': ['Nyarugenge', 'Gasabo', 'Kicukiro'],
-    'Northern': ['Burera', 'Gakenke', 'Gicumbi', 'Musanze', 'Rulindo'],
+    'Northern': ['Burera',  'Gicumbi', 'Musanze'],
     'Southern': ['Gisagara', 'Huye'],
     'Eastern': ['Bugesera', 'Rwamagana'],
     'Western': ['Karongi', 'Rubavu']
   },
   sectors: {
-    'Nyarugenge': ['Gitega', 'Kanyinya', 'Kigali', 'Kimisagara', 'Mageragere', 'Muhima', 'Nyakabanda', 'Nyamirambo', 'Nyarugenge', 'Rwezamenyo'],
-    'Gasabo': ['Bumbogo', 'Gatsata', 'Gikomero', 'Gisozi', 'Jabana', 'Jali', 'Kacyiru', 'Kimihurura', 'Kimironko', 'Kinyinya', 'Ndera', 'Nduba', 'Remera', 'Rusororo', 'Rutunga'],
-    'Kicukiro': ['Gahanga', 'Gatenga', 'Gikondo', 'Kagarama', 'Kanombe', 'Kicukiro', 'Kigarama', 'Masaka', 'Niboye', 'Nyarugunga'],
+    'Nyarugenge': ['Gitega', 'Kanyinya', 'Nyamirambo', 'Nyarugenge'],
+    'Gasabo': ['Gisozi', 'Kacyiru', 'Kimihurura', 'Kimironko', 'Remera', 'Rusororo'],
+    'Kicukiro': ['Gikondo', 'Kagarama', 'Kanombe', 'Masaka', 'Niboye'],
+    'Burera': ['Butaro'],
     'Gicumbi': ['Byumba'],
     'Musanze': ['Busogo'],
-    'Rulindo': ['Burega'],
     'Gisagara':['Kigembe'],
     'Huye': ['Karama'],
     'Bugesera': ['Gashora'],
     'Rwamagana': ['Muhazi'],
     'Rubavu': ['Gisenyi'],
-
-    'Burera': ['Sectors in Burera'],
-    'Gakenke': ['Sectors in Gakenke'],
-    // Add abbreviated lists for other districts
+    'Karongi': ['Gitesi'],
   }
 };
 
