@@ -58,15 +58,22 @@ export const locationData: LocationData = {
   districts: {
     'Kigali': ['Nyarugenge', 'Gasabo', 'Kicukiro'],
     'Northern': ['Burera', 'Gakenke', 'Gicumbi', 'Musanze', 'Rulindo'],
-    'Southern': ['Gisagara', 'Huye', 'Kamonyi', 'Muhanga', 'Nyamagabe', 'Nyanza', 'Nyaruguru', 'Ruhango'],
-    'Eastern': ['Bugesera', 'Gatsibo', 'Kayonza', 'Kirehe', 'Ngoma', 'Nyagatare', 'Rwamagana'],
-    'Western': ['Karongi', 'Ngororero', 'Nyabihu', 'Nyamasheke', 'Rubavu', 'Rusizi', 'Rutsiro']
+    'Southern': ['Gisagara', 'Huye'],
+    'Eastern': ['Bugesera', 'Rwamagana'],
+    'Western': ['Karongi', 'Rubavu']
   },
   sectors: {
     'Nyarugenge': ['Gitega', 'Kanyinya', 'Kigali', 'Kimisagara', 'Mageragere', 'Muhima', 'Nyakabanda', 'Nyamirambo', 'Nyarugenge', 'Rwezamenyo'],
     'Gasabo': ['Bumbogo', 'Gatsata', 'Gikomero', 'Gisozi', 'Jabana', 'Jali', 'Kacyiru', 'Kimihurura', 'Kimironko', 'Kinyinya', 'Ndera', 'Nduba', 'Remera', 'Rusororo', 'Rutunga'],
     'Kicukiro': ['Gahanga', 'Gatenga', 'Gikondo', 'Kagarama', 'Kanombe', 'Kicukiro', 'Kigarama', 'Masaka', 'Niboye', 'Nyarugunga'],
-    // Add more sectors for other districts as needed
+    'Gicumbi': ['Byumba'],
+    'Musanze': ['Busogo'],
+    'Rulindo': ['Burega'],
+    'Gisagara':['Kigembe'],
+    'Huye': ['Karama'],
+    'Bugesera': ['Gashora'],
+    'Rwamagana': ['Muhazi'],
+
     'Burera': ['Sectors in Burera'],
     'Gakenke': ['Sectors in Gakenke'],
     // Add abbreviated lists for other districts
