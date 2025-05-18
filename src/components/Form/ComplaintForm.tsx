@@ -190,7 +190,7 @@ const ComplaintForm: React.FC = () => {
             Submit Another Complaint
           </Button>
           <Button
-            onClick={() => window.location.href = `/track?ticketId=${submitResult.ticket}`}
+            onClick={() => window.location.href = `track`}
           >
             Track Status
           </Button>

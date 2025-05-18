@@ -40,6 +40,19 @@ const TrackComplaint: React.FC = () => {
           />
         )}
       </div>
+                <div className="mt-4 text-sm text-gray-600">
+            <p className="text-center">
+              Demo tickets: <br />
+             RW-12345678-0001 <br />
+             RW-12345678-0002 <br />
+             RW-12345678-0003 <br />
+             RW-12345678-0004 <br />
+             RW-12345678-0005 <br />
+             RW-12345678-0006 <br />
+             RW-12345678-0007 <br />
+             RW-12345678-0008 <br />
+            </p>
+          </div>
     </Layout>
   );
 };

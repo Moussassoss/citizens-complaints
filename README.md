@@ -1,5 +1,4 @@
-# citizens-complaints
-# Citizen Engagement System MVP for Rwanda
+# Citizen Complaints and Engagement System
 
 ## 🌍 Overview
 
