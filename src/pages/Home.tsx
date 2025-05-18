@@ -99,7 +99,7 @@ const Home: React.FC = () => {
               { name: 'Water & Sanitation', agency: 'WASAC' },
               { name: 'Identity Issues', agency: 'NIDA' },
               { name: 'Local Government Services', agency: 'District Offices' },
-              { name: 'Education', agency: 'Ministry of Education' },
+              { name: 'Education', agency: 'MINEDUC' },
               { name: 'Health', agency: 'MINISANTE' },
               { name: 'Immigration', agency: 'DGIE' },
             ].map((category, index) => (

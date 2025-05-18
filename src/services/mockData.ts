@@ -41,7 +41,7 @@ export const mockAdmins: Admin[] = [
   {
     id: '6',
     name: 'Eric Niyonsaba',
-    email: ' educ@example.com',
+    email: 'educ@example.com',
     password: 'password123',
     agency: 'MINEDUC'
   },
