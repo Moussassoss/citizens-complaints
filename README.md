@@ -41,14 +41,14 @@ https://youtube.com/
 
 * Citizens can track ticket status using the unique Ticket ID, but as this is a mockup-based MVP, tracking is only functional for pre-existing sample tickets included in the mock data:
 
-RW-12345678-0001
-RW-12345678-0002
-RW-12345678-0003
-RW-12345678-0004
-RW-12345678-0005
-RW-12345678-0006
-RW-12345678-0007
-RW-12345678-0008
+* RW-12345678-0001
+* RW-12345678-0002
+* RW-12345678-0003
+* RW-12345678-0004
+* RW-12345678-0005
+* RW-12345678-0006
+* RW-12345678-0007
+* RW-12345678-0008
 
 * Displays: Category, Submission Date, Assigned Agency, Status, Response
 
