@@ -79,4 +79,4 @@ This project is built for educational and demonstration purposes for the Tech As
 ## 📍 Contact
 
 Built by Moussa Mahamat Nassour
-https://www.linkedin.com/in/moussa-mahamat-nassour-405104264
+* Linkedin: https://www.linkedin.com/in/moussa-mahamat-nassour-405104264
